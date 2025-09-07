@@ -14,7 +14,7 @@ mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTop
   .catch(err => console.error(err));
 
 app.get('/', (req, res) => {
-  res.send('Hello from Remote Work Enhancement!');
+  res.send('Welcome to the Remote Work Enhancement API!');
 });
 
 app.listen(port, () => {
