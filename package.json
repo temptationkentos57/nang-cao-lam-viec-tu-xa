@@ -1,12 +1,12 @@
 {
   "name": "nang-cao-lam-viec-tu-xa",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Nền tảng nâng cao năng suất làm việc từ xa cho người dùng và nhóm.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "client": "npm start --prefix client",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "dev": "concurrently \"npm run server\" \"npm run client\"
   },
   "dependencies": {
     "express": "^4.18.2",
