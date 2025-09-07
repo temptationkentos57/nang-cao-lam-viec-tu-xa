@@ -1,7 +1,7 @@
 {
   "name": "nang-cao-lam-viec-tu-xa",
   "version": "1.0.0",
-  "description": "Nền tảng nâng cao năng suất cho làm việc từ xa.",
+  "description": "Nền tảng nâng cao năng suất làm việc từ xa cho người dùng và nhóm.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
