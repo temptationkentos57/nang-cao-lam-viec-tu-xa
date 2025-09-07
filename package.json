@@ -1,6 +1,6 @@
 {
   "name": "nang-cao-lam-viec-tu-xa",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Nền tảng nâng cao năng suất làm việc từ xa cho người dùng và nhóm.",
   "main": "index.js",
   "scripts": {
